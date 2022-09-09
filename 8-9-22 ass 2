@@ -1,0 +1,6 @@
+
+#include<stdio.h>
+int josephus(int n, int k)
+{
+   int n,k;
+   scanf("n=%d k=%d",&n,&k);
